@@ -1,0 +1,12 @@
+Na fase que eu criei, o bjetivo seria derrotar todos os inimigos e alcançar a porta para outra fase. 
+Os inimigos estariam loclizados nas plataformas, no ar, e talvez ocultados  em arbustos ou elmentos do mapa. 
+A ambientação seria mais puxada pro lado da natureza, com melodias e cores mais vibrantes e felizes.
+O combate seria mais simples e conservador, sem muitos poderes e habilidades mágicas, somente porradaria na sua forma mais bruta.
+Conforme os inimigos fossem mortos, eles dropariam itens que ajudariam o jogador em sua jornada, como itens para cura e  itensque ajudariam no combate do jogador, como poção de fúria.
+O jogador tem a possibilidade de fazer parkour nas paredes, podendo agarrar e escorregar nas mesmas. A mecânica de parkour pode ajudar o jogador a avançar mais rapidamente sobre o mapa.
+A fase só pode ser concluida após todos os inimigos serem derrotados.
+Se o jogador cair de uma altura alta poderá tomar um dano consideravel e tambem ficara com um efeito manco por 30 segundos.
+Se o jogador for morto por algum dos monstros do mapa, perderá todos os itens coletados nesse mapa e voltará  ao checkpoint original.
+Se o jogador receber um dano significativo,  poderá ficar desorientado em pequenos intervalos de tempo.
+Caso o  jogador receba muito dano consecutivamente, receberá a condicao "sangrando", onde o alcance de sua visão sera reduzida, seus movimentos ficarão mais lentos e ficará mais propicio a receber danos maiores.
+A condição "sangrando" só poderá ser curada se  o jogador usar o item "atadura".
